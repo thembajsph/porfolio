@@ -1,0 +1,86 @@
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color:white;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: turquoise;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  .lawyer {
+    color:white;
+    /*float: right;*/
+padding: 0.5em;
+  }
+  .lawyerImage {
+    /*float: left;*/
+    padding: 0.5em
+  }
+
+  .hello {
+    padding: 0.5;
+  }
+  .hidden {
+    display: none;
+  }
+
+  .paragraph {
+color:  yellowgreen;
+padding: 0 0 0 55px;
+;
+    
+  }
+  .telloImage {
+    float: top;
+  }
+   .boxed {
+    border: 0.5em solid lightgreen ;
+  } 
+
+  .niceImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .font {
+    font-family: "Arial Black", sans-serif;
+    font-size: 4.5em;
+    letter-spacing: -1px;
+    background-color:  #4CAF50;
+    color: white;
+  }
+
+
+ /*p {
+    
+  }
+  
+  .body-img {
+    float: left;
+.shortInfo {
+background-image: url("IMG_20200701_134850.jpg");
+}
+
+  .eventClass {
+
+  }*/
