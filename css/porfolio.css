@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+
+
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color:white;
@@ -69,6 +73,129 @@ padding: 0 0 0 55px;
     background-color:  #4CAF50;
     color: white;
   }
+
+
+
+
+ 
+/* body {
+  background: #f0a500; */
+
+
+  .main-btn {
+     background: #6985c4; 
+  background: #e11d74;
+  color: black;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  position: fixed;
+  box-sizing: border-box;
+  border: 2px solid #440047;
+
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  z-index: 10;
+  transition: 1s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  
+}
+
+.fab, .fa{
+  font-size: 30px;
+  color: black;
+  text-shadow: 0 0 10px white;
+  
+  
+}
+
+.sub-btns {
+  height: 60px;
+  width: 60px;
+  position: fixed;
+
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.sub-btns > div {
+  box-sizing: border-box;
+  background: #e11d74;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  position: relative;
+  box-sizing: border-box;
+  border: 2px solid #440047;
+  transition: 1s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.fa-mail-bulk{
+  background: #00b38f;
+  color: white;
+}
+.fa-github{
+  background: #00b38f;
+  color: white;
+}
+.fa-file-alt{
+    background: #00b38f;
+  color: white;
+}
+
+.btn2 {
+  bottom: 60px;
+}
+
+.btn3 {
+  bottom: 120px;
+}
+
+.btn4 {
+  bottom: 180px;
+}
+
+.touch {
+  height: 50px !important;
+  width: 50px !important;
+  font-family: "poppins";
+}
+
+.btn5 {
+  bottom: 240px;
+  left: 5px;
+}
+
+.btn6 {
+  bottom: 290px;
+  left: 5px;
+}
+
+.btn7 {
+  bottom: 340px;
+  left: 5px;
+}
+
+.btn8 {
+  bottom: 390px;
+  left: 5px;
+}
+
+.btn9 {
+  bottom: 440px;
+  left: 5px;
+}  
 
 
  /*p {
